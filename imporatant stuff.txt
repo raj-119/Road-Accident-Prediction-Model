@@ -1,0 +1,6 @@
+1. start apache and mysql in xamp
+2. change directory of cmd to the required folder and use: python manage.py runserver
+
+username and password for:-
+user: vasu
+service provider: Admin
